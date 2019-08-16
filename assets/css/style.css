@@ -2,13 +2,12 @@
 body {
     background: lightgoldenrodyellow;
     background-image: url("../../assets/images/bg-body.png");
-	background-repeat: no-repeat;
-    background-size: cover;
 }
 
 section {
-    /*min-height: 300px;*/
     height: 100vh;
+    height: calc(var(--vh, 1vh) * 100);
+    width: 100vw;
 }
 
 .navbar {

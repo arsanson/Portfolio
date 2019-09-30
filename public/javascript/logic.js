@@ -27,7 +27,7 @@ $('a[href*="#"]')
         }
     });
 
-// logic for mobile Nav-bar
+// mobile Nav-bar
 (function () {
     const burger = document.querySelector('.burger');
     const nav = document.querySelector('#' + burger.dataset.target);

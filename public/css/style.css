@@ -1,7 +1,7 @@
 
 body {
     background: lightgoldenrodyellow;
-    background-image: url("../../assets/images/bg-body.png");
+    background-image: url("../images/bg-body.png");
 }
 
 section {
@@ -12,7 +12,7 @@ section {
 
 .navbar {
     width: 100vw;
-    background-color: whitesmoke;
+    background-color: rgb(252, 249, 216);
 }
 
 
@@ -29,7 +29,7 @@ h2 {
 }
 
 .card {
-    background-color:whitesmoke; 
+    background-color:rgb(252, 249, 216); 
     padding: 10px; 
     margin: 80px auto;
     width: 60vw;
